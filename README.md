@@ -1,4 +1,4 @@
-# Pikachu Volleyball — PSP port
+# Pikachu Volleyball PSP port
 
 A native PlayStation Portable port of *Pikachu Volleyball* (対戦ぴかちゅ～ ビーチバレー編,
 © 1997 SACHI SOFT / SAWAYAKAN Programmers, © 1997 Satoshi Takenouchi), targeting
@@ -17,7 +17,7 @@ Big shout out to [Kyutae Lee](https://gorisanson.github.io/) for reverse enginee
 ## Building from source
 
 Requirements:
-- **pspsdk** toolchain (`psp-gcc`, `pspsdk`, `bin2o`) — https://github.com/pspdev/pspsdk
+- **pspsdk** toolchain (`psp-gcc`, `pspsdk`, `bin2o`) https://github.com/pspdev/pspsdk
 - Python 3 + Pillow, and either `mpg123` or `ffmpeg` (for BGM decode)
 
 ```
