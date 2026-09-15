@@ -11,7 +11,7 @@ Big shout out to [Kyutae Lee](https://gorisanson.github.io/) for reverse enginee
 
 ## Installing
 
-- Download the EBOOT.PBP from relases
+- Download the EBOOT.PBP from [releases](https://github.com/athekat/Pikachu-Volleyball-PSP/releases)
 - Copy `EBOOT.PBP` to `ms0:/PSP/GAME/PikachuVolleyball/EBOOT.PBP`
 
 ## Building from source
